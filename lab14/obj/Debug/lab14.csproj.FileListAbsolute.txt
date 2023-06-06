@@ -1,0 +1,10 @@
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\bin\Debug\lab14.exe.config
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\bin\Debug\lab14.exe
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\bin\Debug\lab14.pdb
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.Form1.resources
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.exe
+C:\Users\why_t\Downloads\Lab12-14\14\team14\lab14\obj\Debug\lab14.pdb
